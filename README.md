@@ -39,7 +39,7 @@ I'm passionate about building visually stunning and performant graphics experien
 
 ## Skills
 
-<img align="right" alt="Minecraft dolphin" height="250" src="Minecraft-gifs/minecraft_duck.gif" />
+<img align="right" alt="Minecraft duck" height="250" src="Minecraft-gifs/minecraft_duck.gif" />
 
 ### Programming languages:
 - *Assembly*
