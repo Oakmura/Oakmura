@@ -18,7 +18,7 @@ I'm passionate about building visually stunning and performant graphics experien
       </td>
     </tr>
     <tr>
-      <td>Minecraft Clone</td>
+      <td>Minecraft from scratch in D3D11</td>
       <td>ABCD GameEngine</td>
     </tr>
   </tbody>
