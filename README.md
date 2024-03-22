@@ -30,7 +30,7 @@ I'm passionate about building visually stunning and performant graphics experien
 
 🤖 Business Information Technology @ [**Virginia Tech University**][vt]
 
-🐻 Teach Staff @ [**Proof Of Concept University**][pocu] @ [**Assembly**](https://pocu.academy/ko/Courses/COMP2300) [**OOP**](https://pocu.academy/ko/Courses/COMP2500) [**Algorithm**](https://pocu.academy/ko/Courses/COMP3500)
+🐻 Teaching Staff @ [**Proof Of Concept University**][pocu] @ [**Assembly**](https://pocu.academy/ko/Courses/COMP2300) [**OOP**](https://pocu.academy/ko/Courses/COMP2500) [**Algorithm**](https://pocu.academy/ko/Courses/COMP3500)
 
 🐯🦁🐋
 
