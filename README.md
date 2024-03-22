@@ -1,4 +1,4 @@
-### Hi I'm Jaewoo Roh (노재우) 👋
+### Hi, I'm Jaewoo Roh (노재우) 👋
 
 I'm a **graphics programming enthusiast** exploring the fascinating world of 3D rendering.
 I'm passionate about building visually stunning and performant graphics experiences 🐻
@@ -26,7 +26,7 @@ I'm passionate about building visually stunning and performant graphics experien
 
 ## Quick Resume
 
-<img align="right" alt="Minecraft duck" height="150" src="Minecraft-gifs/minecraft-fox.gif" />
+<img align="right" alt="Minecraft fox" height="150" src="Minecraft-gifs/minecraft-fox.gif" />
 
 🤖 Business Information Technology @ [**Virginia Tech University**][vt]
 
@@ -38,6 +38,8 @@ I'm passionate about building visually stunning and performant graphics experien
 [pocu]: https://pocu.academy/ko
 
 ## Skills
+
+<img align="right" alt="Minecraft dolphin" height="250" src="Minecraft-gifs/minecraft_duck.gif" />
 
 ### Programming languages:
 - *Assembly*
