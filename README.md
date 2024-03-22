@@ -8,12 +8,12 @@ I'm passionate about building visually stunning and performant graphics experien
     <tr>
       <td>
         <a target="_blank" href="https://github.com/Oakmura/Minecraft-Clone">
-          <img alt="Minecraft Clone" src="Screenshots/MinecraftClone/world_with_snow.gif" width="356" height="200"/>
+          <img alt="Minecraft Clone" src="Screenshots/MinecraftClone/world_with_snow.gif" width="391" height="220"/>
         </a>
       </td>
       <td>
         <a target="_blank" href="https://github.com/Oakmura/ABCD">
-          <img alt="ABCD GameEngine" src="Screenshots/ABCDEngine/Guizmo.gif" width="356" height="250"/>
+          <img alt="ABCD GameEngine" src="Screenshots/ABCDEngine/Guizmo.gif" width="391" height="220"/>
         </a>
       </td>
     </tr>
